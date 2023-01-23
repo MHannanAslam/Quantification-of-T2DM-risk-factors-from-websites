@@ -1,0 +1,5 @@
+selenium==4.7.2
+trafilatura==1.3.0
+openpyexcel==2.5.14
+beautifulsoup4 @ file:///private/var/folders/nz/j6p8yfhx1mv_0grj5xl4650h0000gp/T/abs_croot-15cbtalq/beautifulsoup4_1650462161715/work
+pandas==1.4.2
