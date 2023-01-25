@@ -152,7 +152,7 @@ for x in final_data:
 
 search_items = ['sugar','sugary', 'sweets', 'sweetened', 'sweetener','soda','sucrose','fructose', 'glycemic index', 'glycemic load', 'processed', 'refined', 'fiber', 'whole grain', 'whole-grain', 
 'fruit', 'vegetable', 'saturated fat', 'unsaturated fat', 'low-fat', 'low fat', 'red meat', 'processed meat', 'obese', 'obesity', 'weight', 'abdominal fat', 'belly fat', 'body mass index', 'bmi', 
-'adiposity', 'exercis', 'activ', 'sedentary', 'hypertension', 'blood pressure', 'blood pressure', 'dyslipidemia',  'triglyceride', 'cholesterol', 'ldl', 'hdl', 'age', 'old', 'history', 'genetic', 'ethnicit']
+'adiposity', 'exercis', 'activ', 'sedentary', 'hypertension', 'blood pressure', 'dyslipidemia',  'triglyceride', 'cholesterol', 'ldl', 'hdl', 'age', 'old', 'history', 'genetic', 'ethnicit']
 
 
 def read_column(filepath, cell, rows):
