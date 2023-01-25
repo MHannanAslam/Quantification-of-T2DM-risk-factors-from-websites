@@ -1,1 +1,1 @@
-# stated_causes_of_T2D
+Quantification of T2DM risk factors from websites
